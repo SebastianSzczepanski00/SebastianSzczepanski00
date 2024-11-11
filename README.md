@@ -5,3 +5,4 @@ I have almost two years of experience in automated testing in virtualization, au
 ### Here are short descriptions of my projects:
 - [ECG Classification](https://github.com/SebastianSzczepanski00/ECG_Classification/tree/main) - my engineering thesis source code to process raw ECG signal and save it as features in Pandas Data Frame, next to train Neural Network model to identify person basing on processed ECG signals.
 - [Vital Functions Cessation Prediction](https://github.com/SebastianSzczepanski00/Vital_functions_cessation_prediction) - my final project of PJATK "Data Exploration and Visualisation" subject with main purpouse to predict death event via models trained with biometric parameters and patient's habits.
+- [Shine Bright Like a Diamond](https://github.com/SebastianSzczepanski00/Shine_bright_like_a_diamond) - my final project of PJATK "Programing for Data Analysis" subject with main purpouse to predict diamonds prices based on theirs parameters.

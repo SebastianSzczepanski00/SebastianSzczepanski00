@@ -1,6 +1,6 @@
 ## Hi, I'm Sebastian Szczepański!
 
-I have over two years of experience in automated testing in virtualization, automotive and 4G/5G EPC domains, creating test scenarios, implementing them and keeping high quality of code and documentation. Moreover on the weekends I’m a student of Polish-Japanese Academy of Information Technology and during my free time I'm constantly developing my Data Science domain skills and performance.
+I have over two years of experience in automated testing in Automotive, virtualization and 4G/5G EPC domains, creating communication tests scenarios, implementing them and keeping high quality of code and documentation. Moreover, recently I have obtained my Master's degree in Data Science specialization at Polish-Japanese Academy of Technology, gaining my knowledge in AI/ML solutions and dealing with data transformation in pipelines.
 
 ### There are short descriptions of my projects:
 - [Formula 1 Car IoT](https://github.com/SebastianSzczepanski00/Formula_1_Car_IoT) - my leisure time project with docker usage, which consists of two docker containers with bi-directional communication. The project is still under construction.

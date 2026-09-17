@@ -1,6 +1,10 @@
 ## Hi, I'm Sebastian Szczepański!
 
-I have over three years of experience in automated testing in Automotive, virtualization and 4G/5G EPC domains, creating communication tests scenarios, implementing them and keeping high quality of code and documentation. Moreover, recently I have obtained my Master's degree in Data Science specialization at Polish-Japanese Academy of Technology, gaining my knowledge in AI/ML solutions and dealing with data transformation in pipelines.
+Software Engineer with almost 4 years of commercial experience in Python development and test automation in data storage, embedded, automotive, hardware virtualization, 4G/5G EPC and 4G/5G Radio domains.
+
+My main responsibilities include maintaining testing frameworks and CI/CD pipelines, creating test scenarios and implementing them. That brings to my experience solving complex technical challenges, optimizing existing systems, and writing clean, maintainable code that delivers long-term value.
+
+Moreover, I have obtained my Master's degree in Data Science specialization at Polish-Japanese Academy of Information Technology, gaining my knowledge in AI/ML solutions and dealing with data transformation via pipelines (ETL).
 
 ### There are short descriptions of my projects:
 - [Formula 1 Car IoT](https://github.com/SebastianSzczepanski00/Formula_1_Car_IoT) - my leisure time project with docker usage, which consists of two docker containers with bi-directional communication. The project is still under construction.
